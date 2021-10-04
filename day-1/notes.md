@@ -27,3 +27,8 @@ In a new window, go to Source control, and select "Clone Repo"
 ### Mark down lab
 
 see some notes on how to use mark down [here](https://github.com/alchemycodelab/dev-101-october-2021/blob/main/01-learning-the-tools-terminal-and-github/notes/markdown.md#quotes)
+
+
+The basic way to remember the flow of project is 
+
+*ACP*: Add, Commit, Push
